@@ -1,0 +1,2 @@
+# gozluk
+GitHub Pages
