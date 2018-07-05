@@ -482,6 +482,10 @@ h6,
 #ext_menu-2 .btn {
   font-size: 13px;
 }
+#msg-box7-9 .mbr-section-title,
+#msg-box7-9 .lead p {
+  color: #fff;
+}
 
 
 #ext_menu-3 .hide-buttons .nav-btn {
@@ -550,6 +554,9 @@ h6,
 }
 #ext_menu-3 .btn {
   font-size: 13px;
+}
+#social-buttons1-8 .mbr-section-title {
+  text-align: center;
 }
 
 
