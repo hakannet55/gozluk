@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "unokullari",
-    "currentPage": "tanitim.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -170,7 +170,7 @@
           },
           "title": "Ün Temel Lisesi",
           "text": "Bir okulun; sadece bir binadan ibaret değil, hayatın içine geçmiş bir yapı olduğuna inanıyoruz. Ün Okulları ailesi olarak bunun için çalışıyoruz.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">İletişim</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Otomasyon Giriş</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"iletisim.html\" data-toolbar=\"-mbrBtnMove\">İletişim</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://unovasyon.com/\" data-toolbar=\"-mbrBtnMove\">Otomasyon Giriş</a>   "
         }
       ]
     },
