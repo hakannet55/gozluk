@@ -699,3 +699,14 @@ h6,
 #ext_menu-5 .btn {
   font-size: 13px;
 }
+#header5-e .mbr-section-title {
+  color: #000;
+}
+#header5-e .mbr-section-lead {
+  color: #9c9a9a;
+  text-align: left;
+}
+#header5-e .mbr-section-lead B {
+  font-size: 30px;
+  color: #b8312f;
+}

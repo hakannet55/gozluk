@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "unokullari",
-    "currentPage": "index.html",
+    "currentPage": "tanitim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "siteUrl": "http://unovasyon.com/",
     "sitemapSwitcherAuto": "on",
@@ -151,11 +151,11 @@
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/duyuru2-2000x1035.jpg",
             "bgColor": "#2d468b",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -224,8 +224,8 @@
             }
           },
           "title": "Youtube Video Desteği",
-          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Matematik ve Sayısal Derslerin konu anlatımları.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/channel/UCYcN_PUztvtBBKfHbLaJ37Q\" data-toolbar=\"-mbrBtnMove\">ÜnOkulları.TV</a>"
         },
         {
           "_inherit": "features3",
@@ -295,7 +295,7 @@
               "family": "et-line"
             }
           },
-          "title3": "Kurumsallaşmış",
+          "title3": "Deneme Sınavları",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -903,6 +903,83 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ün Okulları</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tanitim.html\">Tanıtım</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kadro.html\">Kadro</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\">İletişim</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://unovasyon.com/intro.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(184, 49, 47);\"></span>Okul Sistemi Giriş</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://www.youtube.com/channel/UCYcN_PUztvtBBKfHbLaJ37Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(209, 72, 65);\"></span>Youtube</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/HGrV2uKMS7g?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Tanıtım",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"iletisim.html\" data-toolbar=\"-mbrBtnMove\">İletişim</a> "
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "text-align": "left"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "30px",
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-e",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/uNCr7NdOJgw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "",
+          "text": "<b>Misyon &amp; Vizyon<br></b><br>MİSYONUMUZ<br><br>Bir okulun; sadece bir binadan ibaret değil, hayatın içine geçmiş bir yapı olduğuna inanıyoruz. Ün Okulları ailesi olarak bunun için çalışıyoruz.<br> <br><br>VİZYONUMUZ<br><br>Varoluş amacımız, yerelden globale güncel hayatla içiçe olan, girişimci ruhuna sahip, kendine güveni tam, analitik düşünen bireyler yetiştirmek. Öğrencilerimizin sadece okul duvarlarına sıkışıp kalmasını önleyip, iş, sanat hayatıyla adapte olmasını yönlendirmek.<br><br>Amacımız Üniversite vizyonunu Lisede kazandırmak…..<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         }
       ]
     }
