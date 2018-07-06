@@ -459,7 +459,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-kopya-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/un-okullari-renkli-logo-128x127.png",
               "width": 128,
               "active": true,
               "link": "index.html",
