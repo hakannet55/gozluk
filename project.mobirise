@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "unokullari",
-    "currentPage": "index.html",
+    "currentPage": "tanitim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -644,8 +644,13 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-6",
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -658,37 +663,28 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "hk.msn.1@hotmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/un-okullari-renkli-logo-128x127.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "cursor-click",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+          "text1": "ÜN TEMEL LİSESİ<br><br>Esentepe Mah. Adnan Doğu Cad. Lale İş Merkezi  No:4 Kat: 2 59850 ÇORLU -TEKİRDAĞ<br>",
+          "text2": "<br><br>TELEFON\t(0282) 673 77 77<br>FAX\t(0282) 673 77 76<br>E-MAİL\tinfo@unokullari.com<br>",
+          "text3": "<br><a href=\"kadro.html\">Kurumsal</a><br><a href=\"tanitim.html\">Hakkımızda</a><br><a href=\"kadro.html\">Okulumuzu Tanıyalım</a><br><a href=\"tanitim.html\">Etkinlikler</a><br><a href=\"tanitim.html\">Bizden Haberler</a><br><a href=\"iletisim.html\">Bize Ulaşın</a><br><a href=\"http://www.meb.gov.tr\">meb.gov.tr</a><br><a href=\"http://ookgm.meb.gov.tr\">ookgm.meb.gov.tr</a><br><a href=\"http://e-okul.meb.gov.tr\">e-okul.meb.gov.tr</a><br><a href=\"http://dersanlatimfoyleri.com\">dersanlatimfoyleri.com</a><br><a href=\"http://getkahoot.com\">getkahoot.com</a><br>"
         }
       ]
     },
@@ -933,7 +929,7 @@
             "showButtons": true
           },
           "title": "Tanıtım",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "text": "Ün Okulları, geleceğe güvenle bakan nesiller yetiştirmenin sorumluluğu ve heyecanını duyan bir eğitim yuvasıdır. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"iletisim.html\" data-toolbar=\"-mbrBtnMove\">İletişim</a> "
         },
         {
@@ -943,7 +939,7 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a",
+              "color": "#ffffff",
               "text-align": "left"
             },
             ".mbr-section-lead B": {

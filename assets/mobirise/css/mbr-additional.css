@@ -561,6 +561,9 @@ h6,
 #social-buttons1-8 .mbr-section-title {
   text-align: center;
 }
+#contacts1-c P {
+  text-align: left;
+}
 
 
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -703,7 +706,7 @@ h6,
   color: #000;
 }
 #header5-e .mbr-section-lead {
-  color: #9c9a9a;
+  color: #ffffff;
   text-align: left;
 }
 #header5-e .mbr-section-lead B {
